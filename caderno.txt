@@ -1,0 +1,13 @@
+git init
+git remote add origin url
+git add .
+git commit -m ""
+git push
+
+
+
+puxa as informações do repositório
+git pull
+
+clona um repositório
+git clone 'url'
