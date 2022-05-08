@@ -1,12 +1,23 @@
-body {
-    
+
+* {
+    margin: 0;
+    padding: 0;
 }
 
-header {
-    padding-left: 25px;
+.nomeBarbearia {
+    padding-left: 60ppx;
+    background-color: #ffffff;
+    font-size: 30px;
 
 }
 
+.barberielson {
+    position: absolute;
+    font-size: 60px;
+    text-transform: uppercase;
+    top: -130px;
+    right: 135px;
+}
 
 
 .principal {
@@ -18,7 +29,7 @@ header {
     width: 100%;
 }
 
-h2 {
+.beneficios h2 {
     font-size: 30px;
 }
 
@@ -42,7 +53,7 @@ em strong {
     padding: 20px;
 }
 
-ul {
+.beneficios ul {
     display: inline-block;
     vertical-align: top;
     width: 20%;
@@ -53,14 +64,3 @@ ul {
     width: 50%;
 }
 
-footer {
-    text-align: center;
-    background: url(bg.jpg);
-    padding: 40px 0;;
-}
-
-footer p {
-    color: #ffffff;  
-    text-align: center;
-    font-size: 13px;
-}
