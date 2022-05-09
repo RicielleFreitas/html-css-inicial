@@ -1,0 +1,73 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nomeBarbearia {
+    padding-left: 61ppx;
+    background-color: #ffffff;
+    font-size: 30px;
+
+}
+
+.barberielson {
+    position: absolute;
+    font-size: 60px;
+    text-transform: uppercase;
+    top: -130px;
+    right: 135px;
+}
+
+
+.principal {
+    background-color: #cccccc;
+    padding: 30px;
+    font-size: 25px;
+}
+
+#banner {
+    width: 100%;
+}
+
+.beneficios h2 {
+    font-size: 30px;
+}
+
+.textoAlinhado {
+    text-align: center;
+}
+
+em strong {
+    color: red;
+}
+
+#missao {
+    font-size: 20px;
+}
+.itens {
+    font-style: italic;
+}
+
+.txt {
+    padding: 20px;
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+.beneficios ul {
+    font-size: 25px;
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+    margin-left: 8%;
+}
+
+#imgbeneficios {
+    width: 50%;
+}
+
